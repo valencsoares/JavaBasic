@@ -1,2 +1,2 @@
 # JavaBasico
-Repositório para armazenar todo o conteúdo de Java Básico.
+Repository to store all Basic Java content.
